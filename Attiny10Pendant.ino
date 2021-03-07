@@ -1,7 +1,7 @@
- /* POV Pendant v2
+ /* POV Pendant v2 - see http://www.technoblogy.com/show?201J
 
    David Johnson-Davies - www.technoblogy.com - 7th March 2021
-   ATtiny10 @ 1MHz (internal oscillator; BOD disabled)
+   ATtiny10 @ 1MHz (internal oscillator)
    
    CC BY 4.0
    Licensed under a Creative Commons Attribution 4.0 International license: 
